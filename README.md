@@ -6,29 +6,15 @@
 
 👋 Hello, I'm abdirizak Olol.
 
-📚 [Courses](https://courses.davegray.codes/)
-
-✅ [Check out  YouTube Channel with hundreds of tutorials](https://www.youtube.com/DaveGrayTeachesCode).
-
 
 🚀 Follow Me:
 
-- [Twitter] (will add links)
-- [LinkedIn]()
-- [Blog]()
-- [Reddit]()
 
 ---
 
 ### 📚 Free Git Cheatsheat
 
-🔗 [Download the Git Cheatsheat for Beginners](https://courses.davegray.codes/git-cheatsheet-for-beginners)
-
----
-
-### Description
-
-📺 [YouTube Video](https://youtu.be/CvUiKWv2-C0) for this repository.
+🔗 [Download the Git Cheatsheat for Beginners](https://drive.google.com/file/d/1jHzGYUlt1yRumuNi9cHZloPmE9PffgvR/view?usp=drive_link)
 
 ---
 
