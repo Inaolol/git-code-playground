@@ -4,7 +4,7 @@
 
 ### Author Links
 
-👋 Hello, I'm abdirizak Olol.
+👋 Hello, I'm Abdirizak Olol.
 
 
 🚀 Follow Me:
