@@ -14,7 +14,6 @@ void decryptFile(const char* filename, int key) {
     long fileSize = ftell(file);
     fseek(file, 0, SEEK_SET);
     
-
     char* encryptedData = (char*)malloc(fileSize);
     fread(encryptedData, 1, fileSize, file);
     fclose(file);
@@ -33,7 +32,7 @@ void decryptFile(const char* filename, int key) {
 }
 
 int main() {
-    const char* filename = "Encrypted3.txt";
+    const char* filename = "put your Encrypted.txt";
     int final_key = -1; 
 
     FILE* file = fopen(filename, "r");
